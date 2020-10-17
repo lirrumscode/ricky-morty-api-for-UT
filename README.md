@@ -2,7 +2,7 @@
 this project is build with:
 - vue
 - Ubuntu touch
-- platzi APi
+- Ricky morty APi
 - JS
 
 ## Commands for debug desktop in Ubuntu Touch
